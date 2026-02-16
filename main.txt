@@ -1,4 +1,4 @@
 Version initiale
 Ligne_A
-Ligne_B modifiée par Sarah
-Ligne_C
+Ligne_B
+Ligne_C modifiée par Malak
