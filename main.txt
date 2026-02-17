@@ -1,5 +1,1 @@
-Version initiale
-Ligne_A modifiée PARFAITEMENT par Sarah pour créer un conflit
-Ligne_A
-Ligne_B modifiÃ©e par Sarah :)
-Ligne_C modifiÃ©e par Sarah pour conflit
+Version initiale modifiée par User_B
