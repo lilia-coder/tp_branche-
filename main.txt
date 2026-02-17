@@ -2,3 +2,4 @@ Version initiale
 Ligne_A
 Ligne_B modifiée par Sarah :)
 Ligne_C modifiée par Malak
+Ligne modifiée par Sarah pour conflit
