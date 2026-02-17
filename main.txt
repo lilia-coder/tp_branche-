@@ -1,4 +1,4 @@
 Version initiale
-Ligne_Amodifiée par Sarah pour conflit
+Ligne_A
 Ligne_B modifiée par Sarah :)
-Ligne_C modifiée par Malak
+Ligne_C modifiée par Sarah pour conflit
